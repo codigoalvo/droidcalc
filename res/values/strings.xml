@@ -4,5 +4,11 @@
     <string name="app_name">DroidCalc - MinQuad &amp; Pearson</string>
     <string name="hello_world">www.codigoalvo.com.br</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_resultado">ResultadoActivity</string>
+    <string name="codigoalvo_url">www.codigoalvo.com.br</string>
+    <string name="resultado">resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="hdrX">X</string>
+    <string name="hdrY">Y</string>
 
 </resources>
