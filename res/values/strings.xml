@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DroidCalc - MinQuad &amp; Pearson</string>
+    <string name="hello_world">www.codigoalvo.com.br</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
