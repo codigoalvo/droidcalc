@@ -7,35 +7,35 @@
 
     <EditText
         android:id="@+id/edtX"
-        android:inputType="numberDecimal"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:inputType="numberDecimal"
         android:paddingRight="2dp"
         android:textSize="14sp" />
 
     <EditText
         android:id="@+id/edtY"
-        android:inputType="numberDecimal"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:inputType="numberDecimal"
         android:textSize="14sp" />
 
     <Button
         android:id="@+id/btnRmv"
-        android:text="   -   "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="0"
-        android:textSize="14sp" />
-    
+        android:text="   -   "
+        android:textSize="18sp" />
+
     <Button
         android:id="@+id/btnAdd"
-        android:text="   +   "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="0"
-        android:textSize="14sp" />
+        android:text="   +   "
+        android:textSize="18sp" />
 
 </LinearLayout>
